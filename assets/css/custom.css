@@ -1,0 +1,30 @@
+.bg-primary {
+    background-color: #311CB2!important;
+}
+
+.relative {
+    position: relative;
+}
+
+* {
+    font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.absolute {
+    position: absolute;
+}
+
+.absolute-right {
+    position: absolute;
+    right: 0
+}
+
+span.lead {
+    letter-spacing: .08rem;
+    font-weight: 800;
+}
+
+a.link-white {
+    color: white;
+    text-decoration: underline;
+}
